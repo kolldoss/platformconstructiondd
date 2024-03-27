@@ -1,0 +1,33 @@
+{
+  "name": "platformconstructiondd",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "platformconstructiondd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kolldoss/platformconstructiondd"
+  },
+  "website": "https://github.com/kolldoss/platformconstructiondd.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "kolldoss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolldoss/platformconstructiondd/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/kolldoss/platformconstructiondd#readme",
+  "dependencies": {
+    "employeemanagementsystemd": "1.0.2"
+  }
+}
